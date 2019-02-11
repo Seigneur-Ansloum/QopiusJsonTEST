@@ -1,0 +1,22 @@
+{
+
+    "abcd":{
+        "imageurl":"https://storage.googleapis.com/qopiuseu1/LvXdVW/panorama/BuBclLcGPk/S8D921xq2A/images/compressed/hjiajigjigfjga-IH3_kSpxrl_0_0_inference_gCqnljGB.jpg?Expires=5148873309&GoogleAccessId=google-cloud-storage%40apitest2-205611.iam.gserviceaccount.com&Signature=VIeVAGpLGtoLi1nF4NHws4ATApc1UH7BwtVtbnYhywcuaPDyikKmt52PzuYqxQ5QN3egy4HQ0ZmeEVk350GIby02MuqVY1Ch19umEwQOrNQME463OrxZewQRvz8RS3IeASBo6TehdtecIr8UpTSUK7zaIPCS6fMPd3qZ%2FNT%2FKOe2b0Qz7zEEfkDkDMkdKXtcUBwDm8ECMKhk%2BR0ZIqlAvwd6eYnCFSCofa9GOFtgOqJq9hvKNVF2tKYTGDTDdLlJOAz1iwyox4sKhMyGKSHe%2FRbVmDkQsUlUcHffM5TDQpdbfNnDhzXqDffbEYPGY39bjpvynA0jJRcvGdsMagNsrw%3D%3D",
+        "imageWH":[
+            2000,
+            589
+        ],
+        "products":[
+            {
+                "x1":10,
+                "y1":10,
+                "x2":100,
+                "y2":100,
+                "name":"Shampoo Green",
+                "ean":"00359862",
+                "brand":"Loreal"
+            }
+        ]
+    }
+
+}
